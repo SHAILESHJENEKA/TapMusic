@@ -55,31 +55,58 @@ header p {
    height: 150px;
    width: 100px;
    flex: 1;
+
 }
+
+
 
 .pad1 {
    background: #60d394;
+}
+
+.pad1:hover{
+    opacity: 0.9;
 }
 
 .pad2 {
     background: #d36060;
  }
 
+ .pad2:hover{
+    opacity: 0.9;
+}
+
  .pad3 {
     background: #817583;
  }
+
+ .pad3:hover{
+    opacity: 0.9;
+}
 
  .pad4 {
     background: #d3d160;
  }
 
+ .pad4:hover{
+    opacity: 0.9;
+}
+
  .pad5 {
     background: #6860d3;
  }
 
+ .pad5:hover{
+    opacity: 0.9;
+}
+
  .pad6 {
     background: #60b2d3;
  }
+
+ .pad6:hover{
+    opacity: 0.9;
+}
 
  @keyframes jump {
      0%{
